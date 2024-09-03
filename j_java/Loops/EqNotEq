@@ -1,0 +1,10 @@
+// 3. Program to demonstrate equal (==) and not equal (!=) operators
+
+class EqNotEq {
+    public static void main(String[] args) {
+        int a = 5;
+        int b = 10;
+        System.out.println("Is a equal to b? " + (a == b));
+        System.out.println("Is a not equal to b? " + (a != b));
+    }
+}

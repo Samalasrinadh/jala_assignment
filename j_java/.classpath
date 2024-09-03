@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Abstract Class"/>
+	<classpathentry kind="src" path="Access Modifiers"/>
+	<classpathentry kind="src" path="Arrays"/>
+	<classpathentry kind="src" path="Collections"/>
+	<classpathentry kind="src" path="Constructors"/>
+	<classpathentry kind="src" path="Exceptions"/>
+	<classpathentry kind="src" path="Inheritance"/>
+	<classpathentry kind="src" path="Interfaces"/>
+	<classpathentry kind="src" path="java basics"/>
+	<classpathentry kind="src" path="JAVA IO"/>
+	<classpathentry kind="src" path="Loops"/>
+	<classpathentry kind="src" path="Method Overloading"/>
+	<classpathentry kind="src" path="Operators"/>
+	<classpathentry kind="src" path="Static"/>
+	<classpathentry kind="src" path="Strings"/>
+	<classpathentry kind="src" path="This and Super"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

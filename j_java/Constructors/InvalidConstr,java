@@ -1,0 +1,12 @@
+// Q4: Write constructors with return type int and String (Note: Constructors cannot have a return type in Java)
+
+class InvalidConstr {
+    
+    InvalidConstr() {
+        System.out.println("Correct Constructor without return type.");
+    }
+
+    public static void main(String[] args) {
+        InvalidConstr obj = new InvalidConstr();
+    }
+}
